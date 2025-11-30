@@ -1,6 +1,5 @@
-# snipe-it
-Snipe-IT - Gestión de activos - Docker compose
+# Snipe-IT
 
-Ver en "localhost:8200"
+Ver en "http://localhost:8200"
 
-
+Modificar línea 14 del archivo .env - Cambia localhost por IP ó dominio
